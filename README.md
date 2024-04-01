@@ -8,7 +8,8 @@ Basic Authentication:
 Preconditions: Open the Main page
 Step 1: Click the "Basic Auth" link and perform basic authentication
 Step 2: Accept alert
-Expected Result: Success message is displayed on the Basic Auth page
+Expected Result: Success message is displayed on the
+Basic Auth page
 
 
 Sortable Data Tables:
